@@ -32,12 +32,6 @@ Have fun building!
 #### Font Family
 - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
 
-#### Font Sizes
-- body: 14px
-- h2: 22px
-- prices: 56px
-- a: 16px
-
 #### Font Weights
 - 300
 - 500
