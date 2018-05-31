@@ -12,6 +12,8 @@ The design shows one 'Buy' call-to-action, whereas you'll see that each tier has
 - The Buy call-to-action should appear for the tier that has been hovered and the buttons on the inactive tiers should disappear
 - The `box-shadow` on the hovered tier should be changed to add emphasis to the element
 
+Try to complete the JavaScript side of the project **without loading in jQuery**.
+
 If you decide to push the project live, tweet **@frontendmentor** once you're finished with your URL in the tweet. I'd love to take a look at what you've built!
 
 Feedback is always welcome, so if you have any regarding this challenge please email me at matt[at]frontendmentor[dot]io.
