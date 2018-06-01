@@ -1,6 +1,8 @@
 # Frontend Mentor - Minimal Pricing Tiers Challenge
 
-![Design for the pricing tier coding challenge](./design/pricing.jpg)
+![Design by Oleg Frolov for the pricing tier coding challenge](./design/pricing.jpg)
+
+Design by: [Oleg Frolov](https://dribbble.com/Volorf)
 
 Welcome! Thanks for checking out this front-end coding challenge. 
 
